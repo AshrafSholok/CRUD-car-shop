@@ -1,0 +1,22 @@
+/* Add your custom styles here */
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('images/5676358.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card {
+    max-width: 800px;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+
